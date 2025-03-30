@@ -8,8 +8,6 @@ Gostou do projeto? Me chama pra gente conversar!
 
 ✔️ Abre programas e sites.
 
-✔️ Envio de emails (Em desenvolvimento)
-
 ✔️ Gera texto com IA.
 
 ✔️ Exibe horário atual.
@@ -22,7 +20,7 @@ Gostou do projeto? Me chama pra gente conversar!
 
 ## 👷‍♂️ Em desenvolvimento!
 
-🚧 Envio de Emails em massa
+🚧 Envio de Emails
 
 🚧 Banco de dados do sistema
 
