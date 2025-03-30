@@ -12,7 +12,7 @@ Gostou do projeto? Me chama pra gente conversar!
 
 ✔️ Exibe horário atual.
 
-✔️ Cria arquivos de texto e python.
+✔️ Cria arquivos de texto, python e pastas.
 
 ✔️ Abre programas e sites.
 
