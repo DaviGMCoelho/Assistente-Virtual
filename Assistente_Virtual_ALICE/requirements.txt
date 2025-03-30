@@ -1,0 +1,8 @@
+customtkinter
+Pillow
+speechrecognition
+pyttsx3
+pyparsing
+tkinterdnd2
+langchain
+nltk

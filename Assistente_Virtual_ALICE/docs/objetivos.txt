@@ -1,0 +1,79 @@
+- [ ]  Recursos desejados
+
+    - [X]  Interligar dados usuário nas funções
+
+    - [X]  Realizar cálculos
+
+    - [ ]  Web Scraping - Selenium
+        - [ ]  Pesquisar produtos
+        - [ ]  Pesquisar vagas de emprego
+        - [ ]  Pesquisar cursos
+        - [ ]  Pesquisa normal
+
+    - [X]  Gerador de texto
+        - [ ]  Implementar sistema de processamento paralelo (Threads)
+        - [X]  Salvar histórico em arquivo de texto
+        - [X]  Organizar em pastas por dia
+            - [X]  Arquivos gerados (relatórios, roteiros e afins) em arquivos txt separados
+
+    - [X]  Comandos gerais
+        - [X]  Abrir principais programas
+        - [X]  Abrir principais sites
+
+    - [ ]  Envio de mensagens automáticas
+        - [ ]  Opção de enviar por fala
+            - [ ] Mostrar telefones salvos (contatos/telefones)
+        - [ ]  Opção de enviar por interface
+
+    - [ ] Interface para cadastro de contatos (Números)
+        - [ ] Criar base de dados de contatos
+        - [ ] CRUD Banco de dados
+            - [ ] Inserir
+            - [ ] Deletar
+            - [ ] Alterar
+            - [ ] Visualizar
+        - [ ] Verifica se já tem, caso tenha não coloca
+
+    - [ ] Interface para cadastro de contatos (Emails)
+        - [X] Criar base de dados de contatos
+        - [ ] CRUD Banco de dados
+            - [X] Inserir
+            - [X] Deletar
+            - [ ] Alterar
+            - [ ] Visualizar
+        - [X] Verifica se já tem, caso tenha não coloca
+
+
+    - [ ]  Envio de e-mails (normal)
+        - [ ]  Opção de enviar por fala
+        - [X]  Mostrar emails salvos (contatos/emails)
+        - [ ]  Opção de enviar por interface
+
+    - [ ]  Envio de e-mails (em massa)
+        - [ ] Envio em massa para categorias em contatos
+
+    - [ ]  Organizador de arquivos
+        - [ ] Separa por tipo de arquivo
+
+    - [ ]  Assistente de estudo
+        - [ ] Pomodoro
+        - [ ] To-do list (por ciclo e sessão)
+
+    - [ ]  Agente Autônomo
+        - [ ] Alimentar perfil linkedin
+            - [ ] Postagens automáticas sobre
+                - [ ] Novos vídeos
+                - [ ] Lives
+                - [ ] Atualizações e coisas assim
+            - [ ] Responder comentários / Publicações
+            - [ ] Análise desempenho
+
+        - [ ] Alimentar canal youtube
+            - [ ] Pegar trechos de vídeos
+            - [ ] Postagem aba comunidade
+            - [ ] Responder comentários
+            - [ ] Análise desempenho
+
+- [ ]  Interface Gráfica / Identidade
+    - [X]  Tela de cadastro
+    - [x]  Definir a personagem

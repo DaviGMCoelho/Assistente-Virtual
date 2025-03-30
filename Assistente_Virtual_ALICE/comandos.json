@@ -1,0 +1,61 @@
+{
+
+    "comandos":[
+        {
+            "nome":"abrir",
+            "identificador": ["abrir","abra","abre","iniciar"],
+            "itens": [
+                {
+                    "programa": "google",
+                    "palavra_chave": ["google", "chrome"],
+                    "url": "https://www.google.com",
+                    "speak": "Abrindo o google!"
+                },
+                {
+                    "programa": "adicione o nome do programa aqui",
+                    "palavra_chave": ["possível nome1", "possível nome2", "possível nome2"],
+                    "path": "coloque o caminho completo até seu navegador aqui",
+                    "speak":"O que quer que a assistente fale ao abrir"
+                }
+            ]
+        },
+        {
+            "nome": "criar",
+            "identificador":["criar", "crie", "cria", "gerar"],
+            "itens":[
+                {
+                    "objeto":"pasta",
+                    "palavras_chave":["pasta", "diretório", "folder"]
+                },
+                {
+                    "objeto":"python",
+                    "palavras_chave":["python", "py", "pyt", "pytho"]
+                }
+
+            ]
+
+        },
+        {
+            "nome":"horario",
+            "identificador":["horário","horas","horas são", "hora", "hora são"]
+        },
+        {
+            "nome":"data",
+            "identificador":["que dia ","é hoje","de hoje", "data hoje", "qual dia", "que data"]
+        },
+        {
+            "nome":"calculadora",
+            "identificador":["quanto é", "x", "somar", "+", "adicione", "mais", "adição", "subtração", "subtraia", "-", "diminua", "tire", "arranque", "menos", "vezes", "multiplique", "*", "divide", "divida", "dividido", "/", "por cento", "é quanto de", "porcentagem", "%"]
+        },
+        {
+            "nome":"gerador de texto",
+            "identificador":["faça um", "gere um", "escreva um", "escreva uma", "me fale", "faça um texto pra mim sobre", "gere um texto", "escreva um", "crie um texto pra mim de", "crie uma história"]
+        },
+        {
+            "nome":"enviar email",
+            "identificador": ["envie um email", "mande um email", "escreva um email", "envie uma mensagem", "envie por email", "mensagem por email", "mandar email", "mandar mensagem por email", "enviar email"]
+        }
+
+    ]
+
+}
