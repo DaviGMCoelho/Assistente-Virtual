@@ -1,5 +1,5 @@
 # Assistente Virtual Alice
-Este é um projeto em desenvolvimento, se consiste na criação de uma Assistente Virtual utilizando a linguagem Python, está sendo criada para se tornar uma ferramenta de automação de tarefas, atuando como um agente autônomo. O objetivo principal do projeto é facilitar o dia a dia dos usuários, melhorando a produtividade e a gestão de tempo por meio da execução de tarefas em segundo plano.
+Est projeto está em desenvolvimento, se consiste na criação de uma Assistente Virtual utilizando a linguagem Python, está sendo criada para se tornar uma ferramenta de automação de tarefas, atuando como um agente autônomo. O objetivo principal do projeto é facilitar o dia a dia dos usuários, melhorando a produtividade e a gestão de tempo por meio da execução de tarefas em segundo plano.
 
 Gostou do projeto? Me chama pra gente conversar!
 
